@@ -1,0 +1,48 @@
+
+.navbar-custom {
+    background-color: #b0b0b0;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    /* Change the background color as desired */
+}
+
+.navbar-custom .navbar-brand.navbar-title {
+    color: rgb(0, 0, 0);
+    /* Change the title color as desired */
+}
+
+.content {
+    background-color: #b0b0b0;
+    width: 95vw;
+}
+
+.navbar-toggler-icon span {
+    background-color: #000;
+}
+
+.menu-opt {
+    border-bottom: 2px solid;
+}
+
+.menu-opt2 {
+    border-top: 2px solid;
+}
+
+@media (max-width: 991px) {
+
+    .content {
+        background-color: #b0b0b0;
+        width: 75vw;
+    }
+
+
+}
+
+#nav-cust {
+    height: 90px;
+}
+
+#navv-title {
+    font-size: 25px;
+
+}
